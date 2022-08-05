@@ -39,7 +39,7 @@ input {
     margin: 3px 0;
 }
 
-input, input::placeholder {
+input, input::placeholder, #comments::placeholder {
     font: 16px 'Montserrat', sans-serif;
 }
 
